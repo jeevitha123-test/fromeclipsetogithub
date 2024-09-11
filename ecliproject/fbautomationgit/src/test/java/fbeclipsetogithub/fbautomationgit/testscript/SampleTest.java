@@ -6,6 +6,7 @@ public class SampleTest {
 		// TODO Auto-generated method stub
 		System.out.println("tsis for sample test");
 		System.out.println("purpose for testing");
+		System.out.println("pesting passed");
 
 	}
 
