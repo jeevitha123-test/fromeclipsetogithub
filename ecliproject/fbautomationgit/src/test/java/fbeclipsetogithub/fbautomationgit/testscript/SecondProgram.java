@@ -1,11 +1,10 @@
 package fbeclipsetogithub.fbautomationgit.testscript;
 
-public class SecondProjectinfo {
+public class SecondProgram {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("first project was successfully completed");
-		System.out.println("finshed perfectly");
+		System.out.println("iam doing second program ");
 
 	}
 
